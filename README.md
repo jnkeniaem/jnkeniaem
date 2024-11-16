@@ -8,7 +8,7 @@
 
 - 2024/1 ~
 - FE
-- React, Recoil, styled-components, Vite, HTML, CSS, TypeScript, Axios, Figma
+- TypeScript, React, styled-components, HTML, Recoil, Axios, Figma, Vite
 - [![Repository](https://img.shields.io/badge/GitHub-Cabi-9747ff?logo=github)](https://github.com/innovationacademy-kr/Cabi)
 
 
